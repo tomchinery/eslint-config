@@ -1,6 +1,6 @@
 # `@tomchinery/eslint-config`
 
-> My personal [eslint](https://eslint.org/)) config for hobby projects.
+> My personal [eslint](https://eslint.org/) config for hobby projects.
 
 ## Usage
 
