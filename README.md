@@ -6,7 +6,9 @@
 
 **Install**
 
-@TODO
+```bash
+npm i @tomchinery/eslint-config
+```
 
 **Edit `.eslintrc.js`**:
 
