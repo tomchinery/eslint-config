@@ -19,12 +19,12 @@ module.exports = {
 ```
 
 **Edit `package.json`**:
-
+ 
 ```jsonc
 {
     "scripts": {
         ...
-        "lint": "eslint ./src/ --fix",
+        "lint": "eslint ./src/ --fix --ext .js,.jsx,.ts,.tsx",
         ...
     }
 }
